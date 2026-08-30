@@ -216,6 +216,7 @@ As I continue developing my Python skills, I plan to expand this repository with
 ## Author
 
 **Glory Vivian Nnadiukwu**
+
 Aspiring Data Analyst
 
 ### Current Technical Skills
