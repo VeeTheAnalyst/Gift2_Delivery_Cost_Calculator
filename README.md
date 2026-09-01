@@ -63,14 +63,6 @@ The assignments cover concepts including:
 
 ---
 
-## Repository Structure
-
-The assignments are organized according to the tasks completed during the course.
-
-Each project or exercise contains the relevant Python notebook and supporting files where applicable.
-
----
-
 ## Projects & Assignments
 
 ### Python Fundamentals
@@ -213,7 +205,7 @@ As I continue developing my Python skills, I plan to expand this repository with
 
 **Glory Vivian Nnadiukwu**
 
-Aspiring Data Analyst
+Data Analyst
 
 ### Current Technical Skills
 * Python
