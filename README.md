@@ -2,10 +2,6 @@
 A Python based delivery cost calculator demonstrating functions, conditional logic, user input, calculations, and error handling.
 # Python Assignments & Projects
 
-## About This Repository
-
-This repository contains my Python assignments, exercises, and practical projects completed as part of my learning journey in Python programming.
-
 The projects in this repository demonstrate my understanding of Python fundamentals and my ability to apply programming concepts to practical, real-world scenarios.
 
 The work progresses from basic Python concepts to more structured programming tasks involving functions, calculations, conditional logic, input validation, and error handling.
